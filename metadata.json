@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Uni Study Buddy (رفيق المذاكرة)",
+  "description": "A beautiful, responsive Saudi-style study companion featuring a Pomodoro timer, study planner, and to-do list with Arabic and English support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
